@@ -12,7 +12,7 @@ I am currently an assistant professor at the School of Mathematical Sciences, Xi
 
 <!--![](../homepage_material/map.jpg)-->
 
-<img src="../homepage_material/map.png" width=30% height=30%>
+<img src="../photo/map.png" width=30% height=30%>
 
 ​My main research interests focus on the design and analysis of algorithms for combinatorial optimization problems. I am also interested in the real-life problems that appeared in operations research and management science with applications. 
 
