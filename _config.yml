@@ -184,6 +184,9 @@ collections:
   publicationscon:
     output: true
     permalink: /:collection/:path/
+  publicationswork:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -239,6 +242,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+   # _publicationswork
+  - scope:
+      path: ""
+      type: publicationswork
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -256,7 +268,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  
 # Sass/SCSS
 sass:
   sass_dir: _sass
