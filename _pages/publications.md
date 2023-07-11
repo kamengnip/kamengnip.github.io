@@ -24,6 +24,6 @@ Refereed Conference Proceedings
 
 Working Papers
 ------
-{% for post in site.publicationscon reversed %}
+{% for post in site.publicationswork reversed %}
   {% include archive-single.html %}
 {% endfor %}
