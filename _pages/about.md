@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor at the School of Mathematical Sciences, Xiamen University ([faculty website](https://math.xmu.edu.cn/info/1083/6957.htm)). Prior to that, I received my elementary education in Macau SAR, China (my hometown), then obtained my BSc degree from Fudan University in Shanghai, China, and both my MSc and PhD degrees from Tsinghua University in Beijing, China.
+I am currently an assistant professor at the School of Mathematical Sciences, Xiamen University ([my faculty website](https://math.xmu.edu.cn/info/1083/6957.htm)). Prior to that, I received my elementary education in Macau SAR, China (my hometown), then obtained my BSc degree from Fudan University in Shanghai, China, and both my MSc and PhD degrees from Tsinghua University in Beijing, China.
 <!--<img src="map.png" width=30% height=30%>-->
 <!--![](map.png)-->
 
