@@ -5,7 +5,7 @@ _config.yml
 
 page/about.md, publications.md, ...
 
-includes/archive-single-talk.html <!--for publications-->
+includes/archive-single-talk.html ###for publications
 
 data/navigation.yml
 -->
