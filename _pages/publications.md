@@ -18,7 +18,7 @@ Journal Papers
 
 Refereed Conference Proceedings
 ----
-{% for post in site.publications_con reversed %}
+{% for post in site.publicationscon reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
