@@ -24,7 +24,7 @@ Work experience
 Visiting experience
 ------
 * 2021.7-9, 2019.11-12 | Faculty of Business Administration. University of Macau, Macau, China
-* 2019.9-11, 2023.7-8 | Institute for Data and Decision Analytics. The Chinese University of Hong Kong (Shenzhen), Shenzhen, China
+* 2023.7-8, 2019.9-11 | Institute for Data and Decision Analytics. The Chinese University of Hong Kong (Shenzhen), Shenzhen, China
 * 2019.7-8 | Department of Systems Engineering and Engineering Management. The Chinese University of Hong Kong, Hong Kong, China
 * 2019.3-5, 2016.1-7 | Department of Industrial and Systems Engineering. University of Minnesota, MN, USA
 * 2013.2-3 | Department of Decision Sciences and Information Management. KU Leuven, Leuven, Belgium
