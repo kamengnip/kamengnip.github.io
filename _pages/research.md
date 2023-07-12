@@ -48,13 +48,13 @@ Professional Services
 
 Research Talks
 ======
-* 2022.07: The 1st ORSC Scheduling Youth Forum (Invited talk)}, Qingdao (Online).
+* 2022.07: The 1st ORSC Scheduling Youth Forum (Invited talk), Qingdao (Online).
      * <i>Assortment and Pricing Optimization on the Focal Multinomial Logit Model</i>
 * 2022.07: The 6th ORSC Youth Forum (Invited talk), Tianjin (Online).	
      * <i> Competitive and Cooperative Assortment Games under Markov Chain Choice Model </i>
 * 2022.06: 2022 POMS International Conference in China}, Xi'an (Online). 
      * <i> Assortment and Pricing Optimization on the Focal Multinomial Logit Model</i>
-* 2021.11: MOS* 2021, Operations Research Society of China, Qingdao. 
+* 2021.11: MOS 2021, Operations Research Society of China, Qingdao. 
      * <i>Assortment Optimization and Games under Various Customer Choice Models</i>
 * 2021.04: Beijing University of Technology, College of Applied Sciences, Beijing.
      * <i>Competitive and Cooperative Assortment Games under Markov Chain Choice Model</i>
@@ -80,7 +80,7 @@ Research Talks
      * <i>Approximation Algorithms for a Two-phase Knapsack Problem</i>
 * 2018.06: The Chinese University of Hong Kong, Department of Mathematics, Hong Kong.
      * <i>Knapscak Problem: Connection to Computational Complexity and Some Recent Generalizations</i>
-* 2016.11: Beijing ORSC * 2016 annual meeting, Beijing.
+* 2016.11: Beijing ORSC 2016 annual meeting, Beijing.
      * <i>Scheduling under linear constraints (2nd-prize, Beijing ORSC youth outstanding paper) </i>
 * 2015.08: 21th International conference, COCOON 2015, Beijing.
      * <i>Combinations of some shop scheduling problems and the shortest path problem</i>
