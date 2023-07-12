@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra I"
+title: "Linear Algebra I (线性代数 I)"
 collection: teaching
 type: "Undergraduate course"
 permalink: 
