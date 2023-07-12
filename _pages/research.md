@@ -88,5 +88,5 @@ Research Talks
      * <i>The Combinations of Shop Scheduling and the Shortest Path Problem</i>
 * 2014.01: The East Asian core doctorial forum on Mathematics, Kyoto, Japan.
      * <i>The Combinations of Shop Scheduling and the Shortest Path Problem</i>
-* 2013.06 | 19th International conference, COCOON 2013, Hangzhou.
+* 2013.06: 19th International conference, COCOON 2013, Hangzhou.
      * <i>Combination of Two-machine Flow Shop Scheduling and Shortest Path Problems</i>
