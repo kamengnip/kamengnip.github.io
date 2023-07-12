@@ -47,7 +47,7 @@ Professional Services
 * The Annual Conference on Machine Learning and Optimization (MLO 2021, 2022, 2023)
 
 Research Talks
-======
+------
 * 2022.07: The 1st ORSC Scheduling Youth Forum (Invited talk), Qingdao (Online).
      * <i>Assortment and Pricing Optimization on the Focal Multinomial Logit Model</i>
 * 2022.07: The 6th ORSC Youth Forum (Invited talk), Tianjin (Online).	
