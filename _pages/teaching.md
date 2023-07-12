@@ -20,7 +20,7 @@ author_profile: true
 * Tsinghua Yau Shing-Tung MathCamp, Coach (Computer Science)
    * <i>Tsinghua University</i>, 2015/7-8
 * Introduction of Computational Complexity
-* Algorithm Analysis and Design
+* Algorithm Design and Analysis
 * Introduction Network Optimization
 * Linear Algebra
 * Calculus
