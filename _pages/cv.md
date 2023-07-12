@@ -17,16 +17,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020.8 - Now​ | Assistant Professor, School of Mathematical Sciences, Xiamen University, Xiamen, China
+* 2017.7 - 2020.7​ | Associate Research Fellow, School of Mathematics (Zhuhai), Sun Yat-sen University, Zhuhai, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Visiting experience
+======
+* 2021.7-9, 2019.11-12 | Faculty of Business Administration. University of Macau, Macau, China
+* 2019.9-11, 2023.7-8 | Institute for Data and Decision Analytics. The Chinese University of Hong Kong (Shenzhen), Shenzhen, China
+* 2019.7-8 | Department of Systems Engineering and Engineering Management. The Chinese University of Hong Kong, Hong Kong, China
+* 2019.3-5, 2016.1-7 | Department of Industrial and Systems Engineering. University of Minnesota, MN, USA
+* 2013.2-3 | Department of Decision Sciences and Information Management. KU Leuven, Leuven, Belgium
+
 Skills
 ======
 * Skill 1
