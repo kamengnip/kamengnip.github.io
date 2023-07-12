@@ -32,7 +32,7 @@ Visiting Experience
 Selected Awards
 ------
 * 2021: 1st-prize, the 16th Young Teachers' Teaching Skills Competition of Xiamen University
-* 2016: 2nd-prize, Beijing ORSC youth outstanding paper
+* 2016: 2nd-prize, Beijing ORSC Youth Outstanding Paper
 * 2016: National Scholarship for Graduate Students (Best 5 out of the PhD candidates in the department), 
 * 2013-16: Postgraduate Scholarship, Macau SAR Government
 * 2004, 06, 07: 2nd-prize, Macau Mathematical Olympiad
