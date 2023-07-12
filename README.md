@@ -3,11 +3,13 @@ https://kamengnip.github.io/
 <!--
 _config.yml
 
-page/about.md, publications.md, ...
+See the top pages: data/navigation.yml
+
+pages/about.md, publications.md, research.md...
 
 includes/archive-single-talk.html ###for publications
 
-data/navigation.yml
+
 -->
 
 
