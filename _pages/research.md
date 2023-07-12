@@ -28,7 +28,7 @@ Projects
 
 Professional Services
 ------
-### Invited Referees
+### Invited referees
 * Tsinghua Science and Technology (guest editor)
 * Algorithmica
 * Theoretical Computer Science
@@ -42,7 +42,7 @@ Professional Services
 * Journal of Global Optimization
 * Journal of the Operations Research Society of China
 
-### Conference Programme Committee Member
+### Conference programme committee member
 * The 15th Annual International Conference on Combinatorial Optimization and Applications (COCOA 2021)
 * The Annual Conference on Machine Learning and Optimization (MLO 2021, 2022, 2023)
 
