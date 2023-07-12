@@ -36,7 +36,7 @@ Professional Services
 * Journal of Computer and System Sciences
 * Concurrency and Computation: Practice and Experience
 * Computers and Operations Research
-* Manufacturing \& Service Operations Management (MSOM)
+* Manufacturing & Service Operations Management (MSOM)
 * INFORMS Journal on Optimization
 * Journal of Combinatorial Optimization
 * Journal of Global Optimization
