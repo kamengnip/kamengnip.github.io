@@ -16,12 +16,12 @@ Education
 * 2007.8-2011.7 | <b>B.Sc., Information and Computing Sciences.</b> School of Mathematical Sciences, Fudan University, Shanghai, China
 * 1995.9-2007.7 | Kwong Tai middle school, Macau SAR, China
 
-Work experience
+Work Experience
 ------
 * 2020.8 - Now​ | <b>Assistant Professor (助理教授, 硕士生导师)</b>, School of Mathematical Sciences, Xiamen University, Xiamen, China
 * 2017.7 - 2020.7​ | <b>Associate Research Fellow (特聘副研究员)</b>, School of Mathematics (Zhuhai), Sun Yat-sen University, Zhuhai, China
 
-Visiting experience
+Visiting Experience
 ------
 * 2021.7-9, 2019.11-12 | Faculty of Business Administration. University of Macau, Macau, China
 * 2023.7-8, 2019.9-11 | Institute for Data and Decision Analytics. The Chinese University of Hong Kong (Shenzhen), Shenzhen, China
