@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Background"
-permalink: /cv/
+permalink: /background/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ------
-2013.7-2017.7 | Ph.D., Operations Research. Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
-2011.8-2013.7 | M.Sc., Operations Research. Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
-2007.8-2011.7 | B.Sc., Information and Computing Sciences. School of Mathematical Sciences, Fudan University, Shanghai, China
+* 2013.7-2017.7 | Ph.D., Operations Research. Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
+* 2011.8-2013.7 | M.Sc., Operations Research. Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
+* 2007.8-2011.7 | B.Sc., Information and Computing Sciences. School of Mathematical Sciences, Fudan University, Shanghai, China
 
 Work experience
 ------
