@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ------
-* 2013.7-2017.7 | Ph.D., Operations Research. Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
-* 2011.8-2013.7 | M.Sc., Operations Research. Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
-* 2007.8-2011.7 | B.Sc., Information and Computing Sciences. School of Mathematical Sciences, Fudan University, Shanghai, China
+* 2013.7-2017.7 | <b>Ph.D., Operations Research.</b> Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
+* 2011.8-2013.7 | <b>M.Sc., Operations Research.</b> Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
+* 2007.8-2011.7 | <b>B.Sc., Information and Computing Sciences.</b> School of Mathematical Sciences, Fudan University, Shanghai, China
 * 1995.9-2007.7 | Kwong Tai middle school, Macau SAR, China
 
 Work experience
 ------
-* 2020.8 - Now​ | Assistant Professor, School of Mathematical Sciences, Xiamen University, Xiamen, China
-* 2017.7 - 2020.7​ | Associate Research Fellow, School of Mathematics (Zhuhai), Sun Yat-sen University, Zhuhai, China
+* 2020.8 - Now​ | <b>Assistant Professor (助理教授, 硕士生导师)</b>, School of Mathematical Sciences, Xiamen University, Xiamen, China
+* 2017.7 - 2020.7​ | <b>Associate Research Fellow (特聘副研究员)</b>, School of Mathematics (Zhuhai), Sun Yat-sen University, Zhuhai, China
 
 Visiting experience
 ------
