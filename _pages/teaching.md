@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single-teaching.html %}
 {% endfor %}
 
-### Selected Awards (Teaching Related)
+### Awards (Teaching Related)
 * 2021: 1st-prize, the 16th Young Teachers' Teaching Skills Competition of Xiamen University
 
 ### Teaching Assistant (TA) Experience
