@@ -1,15 +1,26 @@
 https://kamengnip.github.io/
 
 <!--
-_config.yml
+left information: _config.yml
 
-See the top pages: data/navigation.yml
+change the top tags: data/navigation.yml
 
-pages/about.md, publications.md, research.md...
+###about me
+---edit pages/about.md
 
-includes/archive-single-talk.html ###for publications
+###publications
+---add/remove papers: /_publications
+---edit: pages/publications.md, includes/archive-single.html
 
+###background
+---edit: pages/background.md
 
+###research
+---edit: pages/research.md
+
+###teaching
+---add/remove courses: /_teaching
+---edit: pages/teaching.md, includes/archive-single-teaching.html
 -->
 
 
