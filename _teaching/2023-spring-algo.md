@@ -1,5 +1,5 @@
 ---
-title: "Algorithm Analysis and Design"
+title: "Algorithm Design and Analysis (算法设计与设计)"
 collection: teaching
 type: "Graduate course"
 permalink: 
