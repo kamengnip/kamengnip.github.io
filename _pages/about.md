@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor at the School of Mathematical Sciences, Xiamen University ([my faculty website in Chinese](https://math.xmu.edu.cn/info/1083/6957.htm)). Prior to that, I received my elementary education in Macau SAR, China (my hometown), then obtained my BSc degree from Fudan University in Shanghai, China, and both my MSc and PhD degrees from Tsinghua University in Beijing, China.
+I am currently an assistant professor at the School of Mathematical Sciences, Xiamen University ([my faculty website in Chinese](https://math.xmu.edu.cn/info/1083/6957.htm)). My educational journey began in Macau SAR, China, where I received my elementary education in my hometown. Later, I pursued my B.Sc. degree at Fudan University in Shanghai, China, and subsequently completed both my M.Sc. and Ph.D. degrees at Tsinghua University in Beijing, China.
 <!--<img src="map.png" width=30% height=30%>-->
 <!--![](map.png)-->
 
-​My main research interests focus on the design and analysis of algorithms for combinatorial optimization problems. I am also interested in the real-life problems that appeared in operations research and management science with applications. 
+My primary research interests center around designing and analyzing algorithms for real-life optimization problems in operations research and management science with applications. I have a particular focus on the problems that appear in revenue management, resource allocation, and transportation. Recently, I have developed a keen interest in exploring problems within competitive or data-driven environments.
 
 More details are available on the other pages!
 
