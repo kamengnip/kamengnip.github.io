@@ -9,12 +9,15 @@ author_profile: true
 
 Research Interests
 ------
-* Algorithm design and analysis for <b><i>operations research/operations management</i></b> problems with practical applications
-  * business analytics and revenue management
-     * assortment optimization/competition, pricing optimization under discrete choice models
-  * combinatorial optimization
-     * scheduling, knapsack, routing
-  * approximation algorithms and computational complexity
+* Algorithm design and analysis for <b><i>operations research/operations management</i></b> problems with practical applications.
+  * Business analytics and revenue management:
+     * Assortment optimization, pricing optimization under discrete choice models.
+     * Addressing challenges in realistic settings, including competitive, cooperative, robust, or data-driven environments.
+  * Combinatorial optimization:
+     * scheduling, knapsack, routing, particularly for problems with linear constraints.
+  * Approximation algorithms and computational complexity.
+
+Overall, my research pursuits aim to bridge the gap between theory and real-world applications, enabling practical solutions and advancements in the fields of operations research and operations management.
 
 Projects
 ------
