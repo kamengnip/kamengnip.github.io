@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor at the School of Mathematical Sciences, Xiamen University ([my faculty website in Chinese](https://math.xmu.edu.cn/info/1083/6957.htm)). My educational journey began in Macau SAR, China, where I received my elementary education in my hometown. Later, I pursued my B.Sc. degree at Fudan University in Shanghai, China, and subsequently completed both my M.Sc. and Ph.D. degrees at Tsinghua University in Beijing, China.
+I am currently an assistant professor at the School of Mathematical Sciences, Xiamen University ([my faculty website in Chinese](https://math.xmu.edu.cn/info/1083/6957.htm)). My educational journey began in Macau SAR, China, where I received my elementary education in my hometown. Later, I pursued my B.Sc. degree at Fudan University in Shanghai, China, and subsequently completed my M.Sc. and Ph.D. at Tsinghua University in Beijing, China.
 <!--<img src="map.png" width=30% height=30%>-->
 <!--![](map.png)-->
 
-My primary research interests center around designing and analyzing algorithms for real-life optimization problems in operations research and management science with applications. I have a particular focus on the problems that appear in revenue management, resource allocation, and transportation. Recently, I have developed a keen interest in exploring problems within competitive or data-driven environments.
+My primary research interests center around designing and analyzing algorithms for real-life optimization problems in operations research and management science with applications. I focus on the problems in revenue management, resource allocation, and transportation. Recently, I have developed a keen interest in exploring problems within competitive or data-driven environments.
 
 More details are available on the other pages!
 
@@ -25,4 +25,4 @@ Office: Wuji Building, No. 519 (数理/物机大楼 519); Phone: (+86) 0592-258
 Address: School of Mathematical Sciences, Zengcuo’an West Road, Haiyun Campus, Xiamen University, (曾厝垵西路厦门大学海韵校区)
 Xiamen City, Fujian Province, China, 361005
 
-**Last update:** Jul, 2023
+**Last update:** Oct, 2023
