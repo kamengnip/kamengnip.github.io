@@ -32,7 +32,7 @@ Projects
 Professional Services
 ------
 ### Invited referees
-* Tsinghua Science and Technology (guest editor)
+* Optimization Letter
 * Algorithmica
 * Theoretical Computer Science
 * INFORMS Conference on Service Science (ICSS 2022)
