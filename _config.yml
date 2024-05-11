@@ -6,9 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
 title                    : "Kameng Nip's homepage"
 title_separator          : "-"
