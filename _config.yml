@@ -136,6 +136,7 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - assets`
+  - assets
   - CHANGELOG
   - Capfile
   - Gemfile
