@@ -1,20 +1,15 @@
 # main links links
 main:
- 
-
-  #- title: "Talks"
-    #url: /talks/    
-
-  - title: "Background"
-    url: /background/
-
  - title: "Publications"
     url: /publications/
     
-  - title: "Research"
+ - title: "Background"
+    url: /background/
+    
+ - title: "Research"
     url: /research/
     
-  - title: "Teaching"
+ - title: "Teaching"
     url: /teaching/    
     
   
