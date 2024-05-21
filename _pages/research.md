@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Background and Research"
 permalink: /research/
 author_profile: true
