@@ -21,9 +21,9 @@ Contact me
 ======
 Email: [kmnip2004@gmail.com](mailto:kmnip2004@gmail) <!--[kmnip@xmu.edu.cn](mailto:kmnip@xmu.edu.cn), -->
 
-<!--Office: Wuji Building, No. 519 (数理/物机大楼 519); Phone: (+86) 0592-2580037
+<!--Office: Wuji Building, No. 519 (数理/物机大楼 519); Phone: (+86) 0592-2580037-->
 
-Address: School of Mathematical Sciences, Zengcuo’an West Road, Haiyun Campus, Xiamen University, (曾厝垵西路厦门大学海韵校区)
+<!--Address: School of Mathematical Sciences, Zengcuo’an West Road, Haiyun Campus, Xiamen University, (曾厝垵西路厦门大学海韵校区)
 Xiamen City, Fujian Province, China, 361005-->
 -->
 
