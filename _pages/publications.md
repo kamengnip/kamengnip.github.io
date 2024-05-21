@@ -3,11 +3,12 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+toc: true
 ---
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=f9KXxU0AAAAJ" target="_blank">my Google Scholar</a> or <a href="https://dblp.org/pid/129/8960.html" target="_blank">DBLP</a> profile.
  
-Journal Papers
+# Journal Papers
 ------
 {% include base_path %}
 
@@ -16,13 +17,13 @@ Journal Papers
 {% endfor %}
 
 
-Refereed Conference Proceedings
+# Refereed Conference Proceedings
 ------
 {% for post in site.publicationscon reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Working Papers
+# Working Papers
 ------
 {% for post in site.publicationswork reversed %}
   {% include archive-single.html %}
