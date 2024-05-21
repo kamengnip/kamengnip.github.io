@@ -7,8 +7,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
 # Education
 ------
 * 2013.7-2017.7 | <b>Ph.D., Operations Research.</b> Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
