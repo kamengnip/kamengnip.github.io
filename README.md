@@ -8,21 +8,20 @@ change the top tags: data/navigation.yml
 ###about me
 ---edit pages/about.md
 
+###research
+---edit: pages/research.md
+
 ###publications
 ---add/remove papers: /_publications
 ---edit: pages/publications.md, includes/archive-single.html
-
-<!-- ###background
----edit: pages/background.md -->
-
-###research
----edit: pages/research.md
 
 ###teaching
 ---add/remove courses: /_teaching
 ---edit: pages/teaching.md, includes/archive-single-teaching.html
 
 
+<!-- ###background
+---edit: pages/background.md -->
 
 <!--
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
