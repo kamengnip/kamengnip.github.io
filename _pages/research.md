@@ -16,8 +16,9 @@ Education
 
 Work Experience
 ------
-* 2020.8 - Now​ | <b>Assistant Professor (助理教授, 硕士生导师)</b>, School of Mathematical Sciences, Xiamen University, Xiamen, China
-* 2017.7 - 2020.7​ | <b>Associate Research Fellow (特聘副研究员)</b>, School of Mathematics (Zhuhai), Sun Yat-sen University, Zhuhai, China
+* 2024.5 - Now​ | <b>Associate Professor </b>, College of Management, Shenzhen University, Shenzhen, China
+* 2020.8 - 2024.4​ | <b>Assistant Professor </b>, School of Mathematical Sciences, Xiamen University, Xiamen, China
+* 2017.7 - 2020.7​ | <b>Associate Research Fellow </b>, School of Mathematics (Zhuhai), Sun Yat-sen University, Zhuhai, China
 
 Visiting Experience
 ------
@@ -61,6 +62,7 @@ Selected Awards
 Professional Services
 ------
 ### Invited referees
+* IJTCS-FAW 2024
 * Optimization Letter
 * Algorithmica
 * Theoretical Computer Science
@@ -80,12 +82,16 @@ Professional Services
 
 Research Talks
 ------
+* 2024.04: Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing.
+     * <i>Duopoly Assortment Competition under the Multinomial Logit Model: Simultaneous vs. Sequential</i>
+* 2023.10: Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing.
+     * <i>The Focal Multinomial Logit Model: Threshold Effects on Consumer Choice, Assortment, Pricing and Estimation</i>
 * 2022.07: The 1st ORSC Scheduling Youth Forum (Invited talk), Qingdao (Online).
      * <i>Assortment and Pricing Optimization on the Focal Multinomial Logit Model</i>
 * 2022.07: The 6th ORSC Youth Forum (Invited talk), Tianjin (Online).	
-     * <i> Competitive and Cooperative Assortment Games under Markov Chain Choice Model </i>
+     * <i>Competitive and Cooperative Assortment Games under Markov Chain Choice Model </i>
 * 2022.06: 2022 POMS International Conference in China}, Xi'an (Online). 
-     * <i> Assortment and Pricing Optimization on the Focal Multinomial Logit Model</i>
+     * <i>Assortment and Pricing Optimization on the Focal Multinomial Logit Model</i>
 * 2021.11: MOS 2021, Operations Research Society of China, Qingdao. 
      * <i>Assortment Optimization and Games under Various Customer Choice Models</i>
 * 2021.04: Beijing University of Technology, College of Applied Sciences, Beijing.
