@@ -6,6 +6,7 @@ title: "Background and Research"
 permalink: /research/
 author_profile: true
 ---
+{% include base_path %}
 
 # Education
 ------
