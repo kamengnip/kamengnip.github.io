@@ -3,6 +3,8 @@ layout: single
 title: "Background and Research"
 permalink: /research/
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 <!--toc: true
 toc_sticky: true-->
