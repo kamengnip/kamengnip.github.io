@@ -16,9 +16,9 @@ Education
 
 Work Experience
 ------
-* 2024.5 - Now​ | <b>Associate Professor </b>, College of Management, Shenzhen University, Shenzhen, China
-* 2020.8 - 2024.4​ | <b>Assistant Professor </b>, School of Mathematical Sciences, Xiamen University, Xiamen, China
-* 2017.7 - 2020.7​ | <b>Associate Research Fellow </b>, School of Mathematics (Zhuhai), Sun Yat-sen University, Zhuhai, China
+* 2024.5 - Now​ | <b>Associate Professor, </b> College of Management, Shenzhen University, Shenzhen, China
+* 2020.8 - 2024.4​ | <b>Assistant Professor, </b> School of Mathematical Sciences, Xiamen University, Xiamen, China
+* 2017.7 - 2020.7​ | <b>Associate Research Fellow, </b> School of Mathematics (Zhuhai), Sun Yat-sen University, Zhuhai, China
 
 Visiting Experience
 ------
