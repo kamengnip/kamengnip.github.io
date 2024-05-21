@@ -12,8 +12,8 @@ change the top tags: data/navigation.yml
 ---add/remove papers: /_publications
 ---edit: pages/publications.md, includes/archive-single.html
 
-###background
----edit: pages/background.md
+<!-- ###background
+---edit: pages/background.md -->
 
 ###research
 ---edit: pages/research.md
