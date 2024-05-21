@@ -1,6 +1,7 @@
 ---
 layout: single
 toc: true
+toc_sticky: true
 title: "Background and Research"
 permalink: /research/
 author_profile: true
