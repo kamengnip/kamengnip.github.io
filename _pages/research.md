@@ -9,20 +9,20 @@ toc_sticky: true
 <!--toc: true
 toc_sticky: true-->
 
-# Education
+Education
 ------
 * 2013.7-2017.7 | <b>Ph.D., Operations Research.</b> Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
 * 2011.8-2013.7 | <b>M.Sc., Operations Research.</b> Department of Mathematical Sciences, Tsinghua University, Beijing, China (Supervisor: [Zhenbo Wang](https://scholar.google.com/citations?hl=en&user=8cdhbPoAAAAJ&view_op=list_works&sortby=pubdate))
 * 2007.8-2011.7 | <b>B.Sc., Information and Computing Sciences.</b> School of Mathematical Sciences, Fudan University, Shanghai, China
 * 1995.9-2007.7 | Kwong Tai middle school, Macau SAR, China
 
-# Work Experience
+Work Experience
 ------
 * 2024.5 - Now​ | <b>Associate Professor, </b> College of Management, Shenzhen University, Shenzhen, China
 * 2020.8 - 2024.4​ | <b>Assistant Professor, </b> School of Mathematical Sciences, Xiamen University, Xiamen, China
 * 2017.7 - 2020.7​ | <b>Associate Research Fellow, </b> School of Mathematics (Zhuhai), Sun Yat-sen University, Zhuhai, China
 
-# Visiting Experience
+Visiting Experience
 ------
 * 2021.7-9, 2019.11-12 | Faculty of Business Administration. University of Macau, Macau, China
 * 2023.7-8, 2019.9-11 | Institute for Data and Decision Analytics. The Chinese University of Hong Kong (Shenzhen), Shenzhen, China
@@ -31,7 +31,7 @@ toc_sticky: true-->
 * 2013.2-3 | Department of Decision Sciences and Information Management. KU Leuven, Leuven, Belgium
 
 
-# Research Interests
+Research Interests
 ------
 * Algorithm design and analysis for <b><i>operations research/operations management</i></b> problems with practical applications.
   * Business analytics and revenue management:
@@ -43,7 +43,7 @@ toc_sticky: true-->
 
 Overall, my research pursuits aim to bridge the gap between theory and real-world applications, enabling practical solutions and advancements in the fields of operations research and operations management.
 
-# Projects
+Projects
 ------
 * <b>若干线性约束下的车间排序问题的算法研究，福建省自然科学基金青创项目，</b> 2021-2024，Principal Investigator
 * <b>线性或非线性约束下一些排序问题的复杂性和算法 (Complexity and algorithms of several scheduling problems under linear or nonlinear constraints), National Science Foundation for Young Scientists of China (No. 11801589), </b> 2019-2021, Principal Investigator
@@ -52,7 +52,7 @@ Overall, my research pursuits aim to bridge the gap between theory and real-worl
 * <b>组合优化问题的组合：问题、算法和复杂性(Combination of combinatorial optimization problems: Problems, algorithms and complexity), NSFC, </b> 2014-2017, Participator
 * <b>Complexity results and exact algorithms for scheduling conflicting jobs on alternative resources, Bilateral Scientific Cooperation between Tsinghua University - K.U. Leuven, </b> 2011-2013, Participator
 
-# Selected Awards
+Selected Awards
 ------
 * 2021: 1st-prize, the 16th Young Teachers' Teaching Skills Competition of Xiamen University
 * 2016: 2nd-prize, Beijing ORSC Youth Outstanding Paper
@@ -61,7 +61,7 @@ Overall, my research pursuits aim to bridge the gap between theory and real-worl
 * 2004, 06, 07: 2nd-prize, Macau Mathematical Olympiad
 * 2001, 04, 07: Lotus Award, DSEJ, Government of Macau (1st in the graduating class)
 
-# Professional Services
+Professional Services
 ------
 ## Invited referees
 * IJTCS-FAW 2024
@@ -82,7 +82,7 @@ Overall, my research pursuits aim to bridge the gap between theory and real-worl
 * The 15th Annual International Conference on Combinatorial Optimization and Applications (COCOA 2021)
 * The Annual Conference on Machine Learning and Optimization (MLO 2021, 2022, 2023)
 
-# Research Talks
+Research Talks
 ------
 * 2024.04: Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing.
      * <i>Duopoly Assortment Competition under the Multinomial Logit Model: Simultaneous vs. Sequential</i>
