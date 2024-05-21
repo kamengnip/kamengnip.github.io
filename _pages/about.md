@@ -1,12 +1,12 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "kmnip"
-author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<!--excerpt: "kmnip"
+author_profile: true-->
 
 I am currently an associate professor at the College of Management, Shenzhen University, Shenzhen University. My educational journey began in Macau SAR, China, where I received my elementary education in my hometown. Later, I pursued my B.Sc. degree at Fudan University in Shanghai, China, and subsequently completed my M.Sc. and Ph.D. at Tsinghua University in Beijing, China.
 <!--<img src="map.png" width=30% height=30%>-->
