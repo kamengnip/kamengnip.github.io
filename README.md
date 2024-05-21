@@ -1,6 +1,6 @@
 https://kamengnip.github.io/
 
-<!--
+
 left information: _config.yml
 
 change the top tags: data/navigation.yml
@@ -21,7 +21,7 @@ change the top tags: data/navigation.yml
 ###teaching
 ---add/remove courses: /_teaching
 ---edit: pages/teaching.md, includes/archive-single-teaching.html
--->
+
 
 
 <!--
