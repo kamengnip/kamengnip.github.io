@@ -62,7 +62,7 @@ Selected Awards
 Professional Services
 ------
 ## Invited referees
-* IJTCS-FAW 2024
+* OR Spectrum
 * Optimization Letter
 * Algorithmica
 * Theoretical Computer Science
@@ -77,6 +77,8 @@ Professional Services
 * Journal of the Operations Research Society of China
 
 ## Conference programme committee member
+* The 20th Conference on Web and Internet Economics (WINE) 2024
+* IJTCS-FAW 2024
 * The 15th Annual International Conference on Combinatorial Optimization and Applications (COCOA 2021)
 * The Annual Conference on Machine Learning and Optimization (MLO 2021, 2022, 2023)
 
