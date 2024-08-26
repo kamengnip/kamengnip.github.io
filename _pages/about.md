@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently an associate professor at the College of Management, Shenzhen University, Shenzhen University. My educational journey began in Macau SAR, China, where I received my elementary education in my hometown. Later, I pursued my B.Sc. degree at Fudan University in Shanghai, China, and subsequently completed my M.Sc. and Ph.D. at Tsinghua University in Beijing, China.
+I am currently an associate professor at the College of Management, Shenzhen University. My educational journey began in Macau SAR, China, where I received my elementary education in my hometown. Later, I pursued my B.Sc. degree at Fudan University in Shanghai, China, and subsequently completed my M.Sc. and Ph.D. at Tsinghua University in Beijing, China.
 <!--<img src="map.png" width=30% height=30%>-->
 <!--![](map.png)-->
 <!--([my faculty website in Chinese](https://math.xmu.edu.cn/info/1083/6957.htm))-->
@@ -21,7 +21,7 @@ Contact me
 ======
 Email: [kmnip2004@gmail.com](mailto:kmnip2004@gmail.com) [kmnip@szu.edu.cn](mailto:kmnip@szu.edu.cn)
 
-Address: B414, Mingli Building, School of Management, Shenzhen University (Lihu Campus), 1066 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong Province, 518055, China
+Address: B414, Mingli Building, College of Management, Shenzhen University (Lihu Campus), 1066 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong Province, 518055, China
 
 <!--Office: Wuji Building, No. 519 (数理/物机大楼 519); Phone: (+86) 0592-2580037-->
 
