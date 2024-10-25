@@ -19,10 +19,10 @@ More details are available on the other pages!
 
 Contact me
 ======
-Email: [kmnip2004@gmail.com](mailto:kmnip2004@gmail.com) [kmnip@szu.edu.cn](mailto:kmnip@szu.edu.cn)
+Email: kmnip2004 at gmail.com, kmnip at szu.edu.cn
+<!--Email: [kmnip2004 at gmail.com](mailto:kmnip2004@gmail.com) [kmnip@szu.edu.cn](mailto:kmnip@szu.edu.cn)-->
 
 Address: B411, Mingli Building, College of Management, Shenzhen University (Lihu Campus), 1066 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong Province, 518055, China (广东省深圳市南山区丽湖校区学苑大道1066号深圳大学丽湖校区明理楼B411)
 
-<!--Office: Wuji Building, No. 519 (数理/物机大楼 519); Phone: (+86) 0592-2580037-->
 
 **Last update:** Aug, 2024
