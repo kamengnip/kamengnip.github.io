@@ -1,9 +1,8 @@
 ---
 title: "Advanced Operations Research (高阶运筹学)"
 collection: teaching
-type: "Graduate course (Fall)"
+type: "Graduate course (2024-25 Fall)"
 permalink: 
 venue: "Shenzhen University"
-year: 2024, 2025
 location: "Shenzhen, China"
 ---
