@@ -11,7 +11,7 @@ redirect_from:
 I am currently an associate professor at the College of Management, Shenzhen University. My educational journey began in Macau SAR, China, where I received my elementary education in my hometown. Later, I pursued my B.Sc. degree at Fudan University in Shanghai, China, and subsequently completed my M.Sc. and Ph.D. at Tsinghua University in Beijing, China.
 <!--<img src="map.png" width=30% height=30%>-->
 <!--![](map.png)-->
-<!--([my faculty website in Chinese](https://math.xmu.edu.cn/info/1083/6957.htm))-->
+<!--([my faculty website in Chinese](xxx))-->
 
 My primary research interests center around designing and analyzing algorithms for real-life optimization problems in operations research and management science with applications. I focus on the problems in revenue management, resource allocation, and transportation. Recently, I have developed a keen interest in exploring problems within competitive or data-driven environments.
 
