@@ -14,7 +14,7 @@ Education
 * 2007.8-2011.7 | <b>B.Sc., Information and Computing Sciences.</b> School of Mathematical Sciences, Fudan University, Shanghai, China
 * 1995.9-2007.7 | Kwong Tai middle school, Macau SAR, China
 
-Work Experience
+Working Experience
 ------
 * 2024.5 - Now​ | <b>Associate Professor, </b> College of Management, Shenzhen University, Shenzhen, China
 * 2020.8 - 2024.4​ | <b>Assistant Professor, </b> School of Mathematical Sciences, Xiamen University, Xiamen, China
@@ -43,8 +43,10 @@ Overall, my research pursuits aim to bridge the gap between theory and real-worl
 
 Projects
 ------
+* <b>数据驱动的消费者个性化行为建模与品类管理：估计、优化与博弈 (Data-Driven Modeling of Personalized Consumer Behavior and Assortment Planning: Estimation, Optimization, and Game-Theoretic Analysis), National Science Foundation of China (General Program, No.
+72571183)，</b> 2026-2029， Principal Investigator
 * <b>若干线性约束下的车间排序问题的算法研究，福建省自然科学基金青创项目，</b> 2021-2024，Principal Investigator
-* <b>线性或非线性约束下一些排序问题的复杂性和算法 (Complexity and algorithms of several scheduling problems under linear or nonlinear constraints), National Science Foundation for Young Scientists of China (No. 11801589), </b> 2019-2021, Principal Investigator
+* <b>线性或非线性约束下一些排序问题的复杂性和算法 (Complexity and algorithms of several scheduling problems under linear or nonlinear constraints), National Science Foundation of China (for Young Scientists, No. 11801589), </b> 2019-2021, Principal Investigator
 * <b>线性约束下的组合优化问题研究 (Combinatorial optimization problems under linear constraints), NSFC, </b> 2018-2022, Participator
 * <b>凸二次约束二次规划问题的鲁棒灵敏度分析研究, NSFC, </b> 2018-2022, Participator
 * <b>组合优化问题的组合：问题、算法和复杂性(Combination of combinatorial optimization problems: Problems, algorithms and complexity), NSFC, </b> 2014-2017, Participator
@@ -62,6 +64,8 @@ Selected Awards
 Professional Services
 ------
 #### Invited referees
+* International Journal of Foundations of Computer Science
+* The 20th Conference on Web and Internet Economics (WINE) 2024
 * OR Spectrum
 * Optimization Letter
 * Algorithmica
@@ -77,13 +81,14 @@ Professional Services
 * Journal of the Operations Research Society of China
 
 #### Conference programme committee member
-* The 20th Conference on Web and Internet Economics (WINE) 2024
 * IJTCS-FAW 2024
 * The 15th Annual International Conference on Combinatorial Optimization and Applications (COCOA 2021)
 * The Annual Conference on Machine Learning and Optimization (MLO 2021, 2022, 2023)
 
 Research Talks
 ------
+* 2024.11: Scheduling public lecture, ORSC (Scheduling branch).
+     * <i>Scheduling under linear constraints</i>
 * 2024.04: Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing.
      * <i>Duopoly Assortment Competition under the Multinomial Logit Model: Simultaneous vs. Sequential</i>
 * 2023.10: Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing.
