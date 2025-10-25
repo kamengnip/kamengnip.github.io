@@ -4,6 +4,6 @@ collection: teaching
 type: "Graduate course (Spring)"
 permalink: 
 venue: "Xiamen University"
-date: 2023
+year: 2023
 location: "Xiamen, China"
 ---
