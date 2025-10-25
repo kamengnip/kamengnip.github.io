@@ -25,4 +25,4 @@ Email: kmnip2004 at gmail.com, kmnip at szu.edu.cn
 Address: B411, Mingli Building, College of Management, Shenzhen University (Lihu Campus), 1066 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong Province, 518055, China (广东省深圳市南山区丽湖校区学苑大道1066号深圳大学丽湖校区明理楼B411)
 
 
-**Last update:** Aug, 2024
+**Last update:** Oct, 2025
