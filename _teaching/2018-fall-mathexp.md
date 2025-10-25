@@ -2,7 +2,7 @@
 title: "Mathematical Experiments and Mathematical Software (数学实验与数学软件)"
 collection: teaching
 type: "Undergraduate course (2018 Fall)"
-permalink: "https://kamengnip.github.io/teaching/"
+permalink: 
 venue: "Sun Yat-sen University"
 location: "Zhuhai, China"
 ---
