@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course (Fall)"
 permalink: 
 venue: "Shenzhen University"
-date: 2024, 2025
+year: 2024, 2025
 location: "Shenzhen, China"
 ---
