@@ -82,13 +82,17 @@ Professional Services
 * Journal of the Operations Research Society of China
 
 #### Conference programme committee member
-* The 22th Conference on Web and Internet Economics (WINE) 2026
+* The 22th Conference on Web and Internet Economics (WINE 2026)
 * IJTCS-FAW 2024
 * The 15th Annual International Conference on Combinatorial Optimization and Applications (COCOA 2021)
 * The Annual Conference on Machine Learning and Optimization (MLO 2021, 2022, 2023)
 
-Research Talks
+Some Research Talks
 ------
+* 2026.05: Shanghai University of Finance and Economics, Shanghai..
+     * <i>The Focal Multinomial Logit Model: Threshold Effects on Consumer Choice, Assortment, Pricing and Estimation</i>
+* 2025.01: CUHK POMS-HK International Conference 2025.
+     * <i>Duopoly Assortment Competition under the Multinomial Logit Model: Simultaneous vs. Sequential</i>
 * 2024.11: Scheduling public lecture, ORSC (Scheduling branch).
      * <i>Scheduling under linear constraints</i>
 * 2024.04: Chinese Academy of Sciences, Academy of Mathematics and Systems Science, Beijing.
