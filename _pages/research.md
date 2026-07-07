@@ -64,6 +64,7 @@ Selected Awards
 Professional Services
 ------
 #### Invited referees
+* Acta Mathematicae Applicatae Sinica (应用数学学报 in Chinese)
 * International Journal of Foundations of Computer Science
 * The 20th Conference on Web and Internet Economics (WINE) 2024
 * OR Spectrum
@@ -81,6 +82,7 @@ Professional Services
 * Journal of the Operations Research Society of China
 
 #### Conference programme committee member
+* The 22th Conference on Web and Internet Economics (WINE) 2026
 * IJTCS-FAW 2024
 * The 15th Annual International Conference on Combinatorial Optimization and Applications (COCOA 2021)
 * The Annual Conference on Machine Learning and Optimization (MLO 2021, 2022, 2023)
