@@ -89,7 +89,7 @@ Professional Services
 
 Some Research Talks
 ------
-* 2026.05: Shanghai University of Finance and Economics, Shanghai..
+* 2026.05: Shanghai University of Finance and Economics, SIME, Shanghai..
      * <i>The Focal Multinomial Logit Model: Threshold Effects on Consumer Choice, Assortment, Pricing and Estimation</i>
 * 2025.01: CUHK POMS-HK International Conference 2025.
      * <i>Duopoly Assortment Competition under the Multinomial Logit Model: Simultaneous vs. Sequential</i>
